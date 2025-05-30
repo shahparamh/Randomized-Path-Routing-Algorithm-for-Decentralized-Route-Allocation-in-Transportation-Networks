@@ -38,7 +38,7 @@ We implement a **Randomized A\*** algorithm that introduces controlled randomnes
 - `S1_ITS1_Project_Main.ipynb`: Main notebook with full simulation and results
 - `Project_Report_ITS_S1_CSE400.pdf`: Final report with background, methods, and results
 - `S1_ITS_1.pptx`: Project presentation slides
-- `Mathematical_Analysis_(Handwritten)`: Scanned handwritten derivations and bound analysis
+- `Mathematical_Analysis_(Handwritten)`: Scanned handwritten derivations
 
 ---
 
@@ -51,11 +51,6 @@ Nguyen, H.T., Wiering, M.A., & van den Berg, J. (2015).
 
 ---
 
-## 📅 Submission Date
-
-**February 13, 2025**
-
----
 
 ## 📃 License
 
