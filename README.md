@@ -15,13 +15,11 @@ We implement a **Randomized A\*** algorithm that introduces controlled randomnes
 - **Probabilistic Path Selection**  
   A Boltzmann-like Probability Mass Function (PMF) is used to assign probabilities to paths:
 
-  \[
-  P(P_i) = \frac{e^{-\beta f(P_i)}}{\sum_j e^{-\beta f(P_j)}}
-  \]
+  ![PMF Equation](https://latex.codecogs.com/png.image?\dpi{120}P(P_i)=\frac{e^{-\beta%20f(P_i)}}{\sum_j%20e^{-\beta%20f(P_j)}})
 
   Where:
-  - \( f(P_i) \) is the cost of path \( P_i \)
-  - \( \beta \) controls randomness (lower \( \beta \) = more exploration)
+  - f(P_i) is the cost of path P_i
+  - β controls randomness β = more exploration
 
 - **Heuristics Used**
   - Euclidean Distance  
@@ -40,7 +38,7 @@ We implement a **Randomized A\*** algorithm that introduces controlled randomnes
 - `S1_ITS1_Project_Main.ipynb`: Main notebook with full simulation and results
 - `Project_Report_ITS_S1_CSE400.pdf`: Final report with background, methods, and results
 - `S1_ITS_1.pptx`: Project presentation slides
-- `Mathematical_Analysis_(Handwritten)/`: Scanned handwritten derivations and bound analysis
+- `Mathematical_Analysis_(Handwritten)`: Scanned handwritten derivations and bound analysis
 
 ---
 
